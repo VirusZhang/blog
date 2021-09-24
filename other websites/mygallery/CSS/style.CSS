@@ -1,0 +1,48 @@
+body {
+    background-color: #d8c8d8;
+}
+h1{
+    text-align: center;
+    color: red;
+    font-family: Jokerman;
+}
+
+.head_section{
+    align: center;
+    margin: auto;
+    width: 60%;
+    height: 20%;
+}
+
+.head_section img{
+    align: center;
+    margin: auto;
+    width: 1500px;
+    height: 800px;
+}
+
+.main_section{
+    align: center;
+    margin: auto;
+    width: 60%;
+    height: 40%;
+}
+
+.main_section img{
+    align: center;
+    margin: auto;
+    width: 700px;
+    height: 400px;
+}
+
+p{
+    text-align: center;
+    color: orange;
+    font-family: Courier;
+    font-size: 30px;
+}
+
+#heading {
+    font-weight: bold;
+    font-family: Courier;
+}
